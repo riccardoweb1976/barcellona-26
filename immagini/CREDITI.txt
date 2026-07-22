@@ -1,0 +1,75 @@
+CREDITI IMMAGINI — Wikimedia Commons
+Cita sempre autore e licenza come indicato qui sotto.
+=============================================
+
+immagini/sagrada-familia.jpg
+  Attrazione: sagrada-familia
+  Fonte: https://commons.wikimedia.org/wiki/File:Barcelona_-_Exterior_of_the_Apse_of_the_Sagrada_Fam%C3%ADlia_-_Western_exposure.jpg
+  Autore: Didier Descouens
+  Licenza: CC BY-SA 4.0
+
+immagini/park-guell.jpg
+  Attrazione: park-guell
+  Fonte: https://commons.wikimedia.org/wiki/File:Park_G%C3%BCell_02.jpg
+  Autore: Bernard Gagnon
+  Licenza: CC BY-SA 3.0
+
+immagini/casa-batllo.jpg
+  Attrazione: casa-batllo
+  Fonte: https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_01.jpg
+  Autore: Bernard Gagnon
+  Licenza: CC BY-SA 3.0
+
+immagini/casa-mila.jpg
+  Attrazione: casa-mila
+  Fonte: https://commons.wikimedia.org/wiki/File:La_Pedrera_Barcelona_May_2026-4a.jpg
+  Autore: Alvesgaspar
+  Licenza: CC BY-SA 4.0
+
+immagini/mnac.jpg
+  Attrazione: mnac
+  Fonte: https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Carrer_del_Doctor_Fonti_Quer_-_View_NW_towards_MNAC_El_Palau_Nacional_de_Montju%C3%AFc_1929.jpg
+  Autore: Txllxt TxllxT
+  Licenza: CC BY-SA 4.0
+
+immagini/museo-picasso.jpg
+  Attrazione: museo-picasso
+  Fonte: https://commons.wikimedia.org/wiki/File:Museu_Picasso_Barcelona.JPG
+  Autore: No machine-readable author provided. 1997 assumed (based on copyright claims).
+  Licenza: CC BY-SA 3.0
+
+immagini/castell-montjuic.jpg
+  Attrazione: castell-montjuic
+  Fonte: https://commons.wikimedia.org/wiki/File:Castell_Montjuic,_Barcelona_(P1170651).jpg
+  Autore: Matti Blume
+  Licenza: CC BY-SA
+
+immagini/la-boqueria.jpg
+  Attrazione: la-boqueria
+  Fonte: https://commons.wikimedia.org/wiki/File:La_Boqueria.JPG
+  Autore: Dungodung
+  Licenza: Public domain
+
+immagini/hospital-sant-pau.jpg
+  Attrazione: hospital-sant-pau
+  Fonte: https://commons.wikimedia.org/wiki/File:Hospital_de_Sant_Pau_02.jpg
+  Autore: Bernard Gagnon
+  Licenza: CC BY-SA 3.0
+
+immagini/font-magica.jpg
+  Attrazione: font-magica
+  Fonte: https://commons.wikimedia.org/wiki/File:Font_M%C3%A0gica_de_Montju%C3%AFc_02.JPG
+  Autore: Ronny Siegel
+  Licenza: CC BY-SA 4.0
+
+immagini/cattedrale.jpg
+  Attrazione: cattedrale
+  Fonte: https://commons.wikimedia.org/wiki/File:Main_facade_of_Barcelona_Cathedral_20171225.jpg
+  Autore: Suicasmo
+  Licenza: CC BY-SA 4.0
+
+immagini/port-olimpic.jpg
+  Attrazione: port-olimpic
+  Fonte: https://commons.wikimedia.org/wiki/File:Porto_deportivo_en_Barcelona_B19.jpg
+  Autore: Luis Miguel Bugallo Sánchez (Lmbuga)
+  Licenza: CC BY-SA 4.0
