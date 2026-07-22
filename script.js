@@ -18,4 +18,21 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     });
   });
+
+  document.querySelectorAll('.listen-btn').forEach(function (button) {
+    button.addEventListener('click', function () {
+      if (!('speechSynthesis' in window)) {
+        return;
+      }
+      var textEl = button.closest('.guide-listen').querySelector('.listen-text');
+      var text = textEl ? textEl.textContent.trim() : '';
+      if (!text) {
+        return;
+      }
+      window.speechSynthesis.cancel();
+      var utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = 'it-IT';
+      window.speechSynthesis.speak(utterance);
+    });
+  });
 });

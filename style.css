@@ -536,6 +536,43 @@ section{ margin-bottom: 3rem; }
 
 .guide-card .guide-tips strong{ color: var(--sea-dark); }
 
+.guide-listen{
+  background: rgba(31, 92, 110, 0.08);
+  border-left: 4px solid var(--sea);
+  border-radius: 10px;
+  padding: 0.8rem 0.9rem;
+  margin: 0 0 0.9rem;
+}
+
+.guide-listen p{
+  margin: 0 0 0.65rem;
+  font-size: 0.9rem;
+  color: var(--ink);
+}
+
+.guide-listen .listen-icon{
+  margin-right: 0.15rem;
+}
+
+.listen-btn{
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--sea);
+  color: #fff;
+  border: none;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.listen-btn:hover, .listen-btn:focus{
+  background: var(--sea-dark);
+}
+
 /* ---------- TABLES ---------- */
 .table-wrap{
   background: var(--cream);
@@ -847,5 +884,53 @@ footer .credits-line a{ color: var(--sea); }
     color: var(--terracotta-dark);
     font-weight: 700;
     margin-bottom: 0.15rem;
+  }
+}
+
+/* ---------- STAMPA / SALVATAGGIO IN PDF ---------- */
+@media print{
+  *{
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .topnav,
+  .map-embed,
+  .map-pins,
+  .map-hint,
+  .day-pager,
+  .listen-btn{
+    display: none !important;
+  }
+
+  body{
+    background: var(--sand);
+  }
+
+  .hero,
+  .page-header{
+    background: var(--sea-dark) !important;
+    color: #fff !important;
+  }
+
+  .hero h1, .hero .subtitle, .hero-meta span,
+  .page-header h1, .page-header p{
+    color: #fff !important;
+  }
+
+  .day-card, .timeline, .table-wrap, .guide-card,
+  .checklist-group, .intro-box, .changelog, .nav-card,
+  .note-box, .day-flag, .guide-listen{
+    box-shadow: none !important;
+    break-inside: avoid;
+  }
+
+  .event--food{
+    background: #f2f6e8 !important;
+  }
+
+  a{
+    color: var(--terracotta-dark) !important;
+    text-decoration: underline;
   }
 }
