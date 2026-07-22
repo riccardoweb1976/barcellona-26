@@ -73,3 +73,9 @@ immagini/port-olimpic.jpg
   Fonte: https://commons.wikimedia.org/wiki/File:Porto_deportivo_en_Barcelona_B19.jpg
   Autore: Luis Miguel Bugallo Sánchez (Lmbuga)
   Licenza: CC BY-SA 4.0
+
+immagini/bunkers-carmel.jpg
+  Attrazione: bunkers-carmel
+  Fonte: https://commons.wikimedia.org/wiki/File:Bunkers_del_Carmel_Barcelona.jpg
+  Autore: Barcelonatips
+  Licenza: CC BY-SA 4.0
